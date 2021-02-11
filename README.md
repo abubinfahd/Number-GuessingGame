@@ -1,2 +1,2 @@
 # Number-GuessingGame
-Guess a number 1 to 10 abd you have three chances
+Guess a number 1 to 10 and you have three chances
